@@ -20,7 +20,7 @@ function News() {
       date: "Feb 2, 2025",
       title: "How Cancer is growing now in children ?",
       description:
-        "Contrary to popular belief, Lorem ipsum is not simply random text. Contrary to popular belief, Lorem ipsum is not simply random text.",
+        "Contrary to populars belief, Lorem ipsum is not simply random text. Contrary to popular belief, Lorem ipsum is not simply random text.",
       image: two,
     },
 
