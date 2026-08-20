@@ -12,7 +12,7 @@ function PressRelease() {
       id: 1,
       source: "India Today",
       date: "Feb 2, 2025",
-      title: "How Cancer is growinsg now in children ?",
+      title: "How Cancer is growinsg now ina children ?",
       description:
         "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots....",
       image: one,
