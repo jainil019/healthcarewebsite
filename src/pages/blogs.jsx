@@ -29,7 +29,7 @@ The reasons for lower survival rates in LMICs include delay in diagnosis, an ina
   {
     id: 2,
     date: "Feb 02, 2025",
-    title: "How Cancer is growing now in children ?",
+    title: "How Cancer is growing nsow in children ?",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     image: two,

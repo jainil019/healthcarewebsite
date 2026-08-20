@@ -14,7 +14,7 @@ function News() {
     {
       source: "India Today",
       date: "feb 2,2025",
-      title: "How Cancer is growing now in children ?",
+      title: "How Cancer is growing snow in children ?",
       description:
         "Contrary to popular belief, Lorem Ipsum is not simply random text. Contrary to popular belief, Lorem Ipsum is not simply random text.",
       image: one,
