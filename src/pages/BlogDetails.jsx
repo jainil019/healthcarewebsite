@@ -28,7 +28,7 @@ Many studies have sought to identify the causes of childhood cancer, but very fe
     id: 2,
     date: "Feb 2, 2025",
     title: "How Cancer is growing now in children ?",
-    image: two,
+    image: one,
     content:
       "Cancer awareness and early diagnosis can play an important role in improving outcomes for children. Access to proper diagnosis and treatment is essential.",
     causes:
