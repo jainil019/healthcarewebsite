@@ -13,7 +13,7 @@ function Blogs() {
   {
     id: 1,
     date: "Feb 02, 2025",
-    title: "How Cancer is growing now in children ?",
+    title: "How Cancer is growing now in childrens ?",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
     image:one,
